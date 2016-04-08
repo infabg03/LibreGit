@@ -24,6 +24,8 @@ public class Persona {
         this.nombre = nombre;
     }
     
-    
+    public void perico(){
+        System.out.println("perico");
+    }
             
 }
