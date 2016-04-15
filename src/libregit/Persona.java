@@ -27,5 +27,9 @@ public class Persona {
     public void perico(){
         System.out.println("perico");
     }
+    
+    public int estoNomola(){
+        return -1;
+    }
             
 }
