@@ -31,5 +31,9 @@ public class Persona {
     public int estoNomola(){
         return -1;
     }
+    
+    public void ecribreNombre(){
+         System.out.println("Alberto");
+    }
             
 }
