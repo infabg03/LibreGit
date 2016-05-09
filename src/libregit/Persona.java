@@ -23,7 +23,12 @@ public class Persona {
     public void setNombre(String nombre) {
         this.nombre = nombre;
     }
+    public void imprimirpantalla(){
+        
+        System.out.println("Esto es una prueba de que subo mi propia branch!!");
+    }
+}
     
     
             
-}
+
